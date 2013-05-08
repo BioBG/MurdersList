@@ -1,0 +1,8 @@
+name: MurdersList
+main: me.PerwinCZ.MurdersList.MurdersList
+author: PerwinCZ
+version: 1.1
+commands:
+   murderslist:
+      description: About plugin MurdersList
+      usage: /murderslist
